@@ -13,5 +13,3 @@ end
 puts 'What string do you want to use?'
 puts uppercase(gets.strip)   #This is the active parameter we are passing into the function to make it do something. 
 
-#
-
